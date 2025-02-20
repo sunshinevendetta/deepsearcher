@@ -29,7 +29,6 @@ So, I built a Windows app that finds **every. single. file.** because there were
 ## Why Did I Make It?
 Because **Windows Search is slow and dumb as f***.** And also because I wasn't about to pay for a file search tool.
 
-## Follow Me
 - **Twitter/X**: [https://x.com/sunshinevndetta](https://x.com/sunshinevndetta)
 
 ## Donations
@@ -74,7 +73,6 @@ Entonces diseñé una app de Windows que encuentra **toooooooodos** los archivos
 ## ¿Por qué lo hice?
 Porque **Windows Search apesta**. Y también porque no iba a pagar por un buscador de archivos.
 
-## Sígueme
 - **Twitter/X**: [https://x.com/sunshinevndetta](https://x.com/sunshinevndetta)
 
 ## Donaciones
