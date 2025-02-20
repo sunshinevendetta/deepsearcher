@@ -21,7 +21,7 @@ So, I built a Windows app that finds **every. single. file.** because there were
 
 ## Features
 - **Blazing fast** search with multi-threading.
-- **Dark mode** with Frutiger Aero style (because I'm not basic).
+- **Dark mode only**
 - Saves a `.txt` file with all the file paths found.
 - Internal search bar to navigate within the results.
 - And if you already found your file, you can stop the search!
@@ -66,7 +66,7 @@ Entonces diseñé una app de Windows que encuentra **toooooooodos** los archivos
 
 ## Características
 - Búsqueda **extremadamente rápida** con múltiples hilos.
-- **Dark mode** con estilo Frutiger Aero (porque no soy básico).
+- **Dark mode**
 - Guarda un `.txt` con todas las rutas de los archivos encontrados.
 - Buscador interno para navegar entre los resultados.
 - Y si ya encontraste el archivo, ¡puedes parar la búsqueda!
